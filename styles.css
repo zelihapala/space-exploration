@@ -2,28 +2,32 @@ body {
   margin: 0;
   color: #82a5ca;
   text-align: center;
-  font-family:corleone ;
+  font-family: corleone;
   font-weight: 70px;
-  font-size: 100px;
- 
-}
-
-#title{
+  font-size: 40px;
   
-  text-shadow: 0px 0px 6px black;
+
 }
-  #hero{
-    background-image: url("https://media2.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif?   cid=ecf05e47iznf6v9hbgpv3n2f0zx1s8z5bip8l025bz9qumfv&rid=giphy.gif&ct=g");
-   background-size: cover;
-   padding: 10px 0 40px 0;
+
+#title {
+
+  text-shadow: 0px 0px 6px black;
+  margin-top: 150px;
+}
+
+#hero {
+  background-image: url("https://media2.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif?   cid=ecf05e47iznf6v9hbgpv3n2f0zx1s8z5bip8l025bz9qumfv&rid=giphy.gif&ct=g");
+  background-size: cover;
+  background-position: center center;
+  padding: 10px 0 40px 0;
 
 
-  }
+}
 
 
 .btn {
   font-family: corleone;
-  font-size: 150px;
+  font-size: 30px;
   color: #82a5ca;
   padding: 6px 12px;
   background: white;
@@ -42,7 +46,7 @@ body {
 }
 
 #main-logo1 {
-  size: 100px;
+  width: 200px;
   padding: none;
-  
+
 }
